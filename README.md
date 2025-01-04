@@ -5,7 +5,7 @@
 👀 I’m passionate about web development and creating beautiful, functional websites.  
 🌱 I’m currently learning advanced JavaScript frameworks and backend technologies.  
 💞️ I’m looking to collaborate on exciting web projects, from frontend design to full-stack development.  
-📫 How to reach me: boulalsalma7@gmail.com or connect with me on [Salma Boulal. ](https://www.linkedin.com/in/salma-boulal-052a921a3/) 
+📫 How to reach me: boulalsalma7@gmail.com or connect with me on [linkedin](https://www.linkedin.com/in/salma-boulal-052a921a3/) 
 
 
 
