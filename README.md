@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![SalmaBoulal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sboulal&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sboulal&layout=compact&theme=radical) ![Total Contributions](https://github-readme-stats.vercel.app/api?username=sboulal&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sboulal&layout=compact&theme=radical) ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=sboulal&theme=radical)
 
